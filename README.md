@@ -1,2 +1,1 @@
-# PrepcourseHenry
-Este es un repositorio del modulo 2 del Prepcourse de Henry
+Este proyecto es una prueba de como clonar un repositorio de github y luego modificarlo en vs
